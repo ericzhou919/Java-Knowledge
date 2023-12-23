@@ -14,7 +14,7 @@ JVM also helps in managing and optimizing resources during program execution by 
 - Memory area
 - Register set
 - Garbage collection
-- Class file format, and
+- Class file format
 - Reporting fatal errors
 
 
